@@ -1,4 +1,4 @@
-#####(johdanto) JOONAS
+#####(johdanto)
 - mikä projekti?
 	Sosiaalihuollon asiakasasiakirjojen sähköinen arkistointi (Vaatimukset ja toiminnallinen määrittely)
 - lukijakunta, kenelle dokumentti on tarkoitettu?
@@ -11,22 +11,32 @@
 	Hyvin vastaava kuin meilläkin ja "byrokraattisen" oloinen. Sisällysluettelo jaettu: johdanto, määritystuon lähtökohdat, sosiaalihuollon arkistointiratkaisulle asetetut päävaatimukset, arkistoinnin arkkitehtuurin perusteet, käyttötapaukset ja toiminnalliset vaatimukset, ei-toiminnalliset vatimukset, terveydenhuollon vatimukset, terveydenhuollon arkistointimallin arviointi suhteessa päävatimuksiin, jatkokehitys ja tarkennukset, lähteet ja liitteet.
 	
 
-#####(käyttötapaukset) SANTTU
+#####(käyttötapaukset)
 - mitä sillä voi tehdä?
+	Vaatimusmäärittelyn avulla selvitetään arkiston ja asiakastietojärjestelmän työnjakoa ja tietojenkäsittelyn kehittämistyötä.
 - käyttötapauskaavio(t)?
+	Vaatimusmäärittelyssä ei ole esitetty käyttötapauskaaavioita.
 - kuinka yksityiskohtaisesti kuvattu?
+	Käyttäjätapaukset on kuvattu hyvin tarkasti. Dokumentissa kerrotaan miten toimitaan, mikä on olennaista ja mitä lisätoimintoja tapauksiin kuuluu.
 - skenaariot? tarinat?
+	Käyttäjätapauksia kirjautumisen jälkeen: Hae asiakirjaluettelo ja kuvailutiedot, hae asiakirjoja ja hae asiakirjoja massahakuna. 
 
-#####(järjestelmän yleisrakenne) JOONAS
+	
+#####(järjestelmän yleisrakenne)
 - MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	Mindmap-tyylisiä kaavioita, joilla hahmotetaan järjestelmän käyttäjien ja käytettävien palvelujen välisiä suhteita. Myös palvelujen riippuvuuksia esitellään, näissäkin käytetään relaatiosuhteiden esittämiseen mindmap-tyylisiä kaavioita.
 
-#####(funktionaaliset & ei-funktionaaliset vaatimukset) SANTTU
-- esitetäänkö listauksena?
-- tunnistetiedot? numeroitu?
-- jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
 
-#####(miltä se näyttää) JOONAS
+#####(funktionaaliset & ei-funktionaaliset vaatimukset)
+- esitetäänkö listauksena?
+	Toiminnalliset vaatimukset on listattu selkeinä kaavioina, jotka sisältävät tunnisteen, kohteen, prioriteetin, perustelun, suhteen muihiin vaatimuksiin ja muutoshistorian.
+- tunnistetiedot? numeroitu?
+	Tunnistetiedot on numeroitu.
+- jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
+	Dokumentissa on lyhyesti viitattu joidenkin vaatimusten kohdalla, että toimintaa täytyy seurata, mutta varsinaisia jatkotoimenpiteitä toteutuksen seuraamiseen ei esitetä.
+	
+	
+#####(miltä se näyttää)
 - onko käyttöliittymästä kuvia?
 	Käyttöliittymästä ei ole mitään kuvia
 - luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
@@ -34,10 +44,15 @@
 - miten eri näkymien (views) välillä liikutaan?
 	Yleisellä tasolla kuvattu millainen järjestelmän pitää olla, mutta mitään graafista esimerkkiä ei ole.
 
-#####(prosessimalli) SANTTU
+
+#####(prosessimalli)
 - onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
+	Dokumentti käsittelee vain prosessin osavaiheet ja tavoitteet, ei tapoja joilla prosessi toteutetaan.
 - resurssit? budjetti?
+	Vaatimusmääritelyssä ei ole viittauksia resursseihin eikä budjettiin.
 - riskianalyysi?
+	Dokumentti ei käsittele prosessin riskejä.
+	
 
 #####(johtopäätökset, oma mielipide) JOONAS
 - mikä tekee hyvän dokumentin?
