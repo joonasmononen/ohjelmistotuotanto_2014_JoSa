@@ -1,4 +1,4 @@
-#####(johdanto) TÄMÄ ON MUUTOS. NÄIN.
+#####(johdanto)
 - mikä projekti?
 - lukijakunta, kenelle dokumentti on tarkoitettu?
 - tilanne?
