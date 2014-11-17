@@ -54,7 +54,7 @@
 	Dokumentti ei käsittele prosessin riskejä.
 	
 
-#####(johtopäätökset, oma mielipide) JOONAS
+#####(johtopäätökset, oma mielipide)
 - mikä tekee hyvän dokumentin?
 	Selkeys, asiallinen rakenne ja tarkoituksenmukaisuus. Eli tiedoston tulee vastata kaikkiin mahdollisiin kysymyksiin asiaan liittyen ja sen tulee olla tarkoituksenmukainen.
 - onko tämä sellainen? miksi?
