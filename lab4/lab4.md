@@ -1,63 +1,65 @@
+[Linkki alkuperÃ¤iseen dokumenttiin](http://www4.thl.fi/attachments/tiedonhallinta/Sosiaalihuollon+asiakasasiakirjojen+s%C3%A4hk%C3%B6inen+arkistointi.pdf)
+
 #####(johdanto)
-- mikä projekti?
-	Sosiaalihuollon asiakasasiakirjojen sähköinen arkistointi (Vaatimukset ja toiminnallinen määrittely)
+- mikÃ¤ projekti?
+	Sosiaalihuollon asiakasasiakirjojen sÃ¤hkÃ¶inen arkistointi (Vaatimukset ja toiminnallinen mÃ¤Ã¤rittely)
 - lukijakunta, kenelle dokumentti on tarkoitettu?
-	Hankkeesta kiinnostuneille asiantuntijoille, mahdollisille järjestelmätoimittajille, päättäjille yms.
+	Hankkeesta kiinnostuneille asiantuntijoille, mahdollisille jÃ¤rjestelmÃ¤toimittajille, pÃ¤Ã¤ttÃ¤jille yms.
 - tilanne?
-	Versio 2: Lausuntokierroksen ja johtoryhmän käsittelyn pohjalta täsmennetty versio
+	Versio 2: Lausuntokierroksen ja johtoryhmÃ¤n kÃ¤sittelyn pohjalta tÃ¤smennetty versio
 - motivaatio, miksi dokumentti on luotu?
-	Vuonna 2008 toteutetun selvitystyön pohjalta on vuonna 2009 jatkettu työsuunnitelman mukaisesti arkistointiratkaisujen suunnittelu- ja määrittelytyötä. Selvitystyön tuloksena syntyi kyseinen asiakirja.
-- dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
-	Hyvin vastaava kuin meilläkin ja "byrokraattisen" oloinen. Sisällysluettelo jaettu: johdanto, määritystuon lähtökohdat, sosiaalihuollon arkistointiratkaisulle asetetut päävaatimukset, arkistoinnin arkkitehtuurin perusteet, käyttötapaukset ja toiminnalliset vaatimukset, ei-toiminnalliset vatimukset, terveydenhuollon vatimukset, terveydenhuollon arkistointimallin arviointi suhteessa päävatimuksiin, jatkokehitys ja tarkennukset, lähteet ja liitteet.
+	Vuonna 2008 toteutetun selvitystyÃ¶n pohjalta on vuonna 2009 jatkettu tyÃ¶suunnitelman mukaisesti arkistointiratkaisujen suunnittelu- ja mÃ¤Ã¤rittelytyÃ¶tÃ¤. SelvitystyÃ¶n tuloksena syntyi kyseinen asiakirja.
+- dokumentin rakenne, millainen se on esim. verrattuna projektissa kÃ¤ytettÃ¤vÃ¤Ã¤n malliin? Kts. myÃ¶s Wikipediasta lÃ¶ytyvÃ¤ runko.
+	Hyvin vastaava kuin meillÃ¤kin ja "byrokraattisen" oloinen. SisÃ¤llysluettelo jaettu: johdanto, mÃ¤Ã¤ritystuon lÃ¤htÃ¶kohdat, sosiaalihuollon arkistointiratkaisulle asetetut pÃ¤Ã¤vaatimukset, arkistoinnin arkkitehtuurin perusteet, kÃ¤yttÃ¶tapaukset ja toiminnalliset vaatimukset, ei-toiminnalliset vatimukset, terveydenhuollon vatimukset, terveydenhuollon arkistointimallin arviointi suhteessa pÃ¤Ã¤vatimuksiin, jatkokehitys ja tarkennukset, lÃ¤hteet ja liitteet.
 	
 
-#####(käyttötapaukset)
-- mitä sillä voi tehdä?
-	Vaatimusmäärittelyn avulla selvitetään arkiston ja asiakastietojärjestelmän työnjakoa ja tietojenkäsittelyn kehittämistyötä.
-- käyttötapauskaavio(t)?
-	Vaatimusmäärittelyssä ei ole esitetty käyttötapauskaaavioita.
+#####(kÃ¤yttÃ¶tapaukset)
+- mitÃ¤ sillÃ¤ voi tehdÃ¤?
+	VaatimusmÃ¤Ã¤rittelyn avulla selvitetÃ¤Ã¤n arkiston ja asiakastietojÃ¤rjestelmÃ¤n tyÃ¶njakoa ja tietojenkÃ¤sittelyn kehittÃ¤mistyÃ¶tÃ¤.
+- kÃ¤yttÃ¶tapauskaavio(t)?
+	VaatimusmÃ¤Ã¤rittelyssÃ¤ ei ole esitetty kÃ¤yttÃ¶tapauskaaavioita.
 - kuinka yksityiskohtaisesti kuvattu?
-	Käyttäjätapaukset on kuvattu hyvin tarkasti. Dokumentissa kerrotaan miten toimitaan, mikä on olennaista ja mitä lisätoimintoja tapauksiin kuuluu.
+	KÃ¤yttÃ¤jÃ¤tapaukset on kuvattu hyvin tarkasti. Dokumentissa kerrotaan miten toimitaan, mikÃ¤ on olennaista ja mitÃ¤ lisÃ¤toimintoja tapauksiin kuuluu.
 - skenaariot? tarinat?
-	Käyttäjätapauksia kirjautumisen jälkeen: Hae asiakirjaluettelo ja kuvailutiedot, hae asiakirjoja ja hae asiakirjoja massahakuna. 
+	KÃ¤yttÃ¤jÃ¤tapauksia kirjautumisen jÃ¤lkeen: Hae asiakirjaluettelo ja kuvailutiedot, hae asiakirjoja ja hae asiakirjoja massahakuna. 
 
 	
-#####(järjestelmän yleisrakenne)
-- MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
-	Mindmap-tyylisiä kaavioita, joilla hahmotetaan järjestelmän käyttäjien ja käytettävien palvelujen välisiä suhteita. Myös palvelujen riippuvuuksia esitellään, näissäkin käytetään relaatiosuhteiden esittämiseen mindmap-tyylisiä kaavioita.
+#####(jÃ¤rjestelmÃ¤n yleisrakenne)
+- MITÃ„ KAAVIOTEKNIIKOITA KÃ„YTETÃ„Ã„N? MIKSI?
+	Mindmap-tyylisiÃ¤ kaavioita, joilla hahmotetaan jÃ¤rjestelmÃ¤n kÃ¤yttÃ¤jien ja kÃ¤ytettÃ¤vien palvelujen vÃ¤lisiÃ¤ suhteita. MyÃ¶s palvelujen riippuvuuksia esitellÃ¤Ã¤n, nÃ¤issÃ¤kin kÃ¤ytetÃ¤Ã¤n relaatiosuhteiden esittÃ¤miseen mindmap-tyylisiÃ¤ kaavioita.
 
 
 #####(funktionaaliset & ei-funktionaaliset vaatimukset)
-- esitetäänkö listauksena?
-	Toiminnalliset vaatimukset on listattu selkeinä kaavioina, jotka sisältävät tunnisteen, kohteen, prioriteetin, perustelun, suhteen muihiin vaatimuksiin ja muutoshistorian.
+- esitetÃ¤Ã¤nkÃ¶ listauksena?
+	Toiminnalliset vaatimukset on listattu selkeinÃ¤ kaavioina, jotka sisÃ¤ltÃ¤vÃ¤t tunnisteen, kohteen, prioriteetin, perustelun, suhteen muihiin vaatimuksiin ja muutoshistorian.
 - tunnistetiedot? numeroitu?
 	Tunnistetiedot on numeroitu.
-- jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
-	Dokumentissa on lyhyesti viitattu joidenkin vaatimusten kohdalla, että toimintaa täytyy seurata, mutta varsinaisia jatkotoimenpiteitä toteutuksen seuraamiseen ei esitetä.
+- jÃ¤ljitettÃ¤vyys? mitattavuus? (Miten voidaan jÃ¤lkikÃ¤teen todentaa, ettÃ¤ vaatimukset on myÃ¶s toteutettu, kuten suunniteltu?)
+	Dokumentissa on lyhyesti viitattu joidenkin vaatimusten kohdalla, ettÃ¤ toimintaa tÃ¤ytyy seurata, mutta varsinaisia jatkotoimenpiteitÃ¤ toteutuksen seuraamiseen ei esitetÃ¤.
 	
 	
-#####(miltä se näyttää)
-- onko käyttöliittymästä kuvia?
-	Käyttöliittymästä ei ole mitään kuvia
-- luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
+#####(miltÃ¤ se nÃ¤yttÃ¤Ã¤)
+- onko kÃ¤yttÃ¶liittymÃ¤stÃ¤ kuvia?
+	KÃ¤yttÃ¶liittymÃ¤stÃ¤ ei ole mitÃ¤Ã¤n kuvia
+- luonnoksia vai kuvakaappauksia valmiista kÃ¤yttÃ¶liittymÃ¤stÃ¤?
 	Ei, ainoastaan kuvailua.
-- miten eri näkymien (views) välillä liikutaan?
-	Yleisellä tasolla kuvattu millainen järjestelmän pitää olla, mutta mitään graafista esimerkkiä ei ole.
+- miten eri nÃ¤kymien (views) vÃ¤lillÃ¤ liikutaan?
+	YleisellÃ¤ tasolla kuvattu millainen jÃ¤rjestelmÃ¤n pitÃ¤Ã¤ olla, mutta mitÃ¤Ã¤n graafista esimerkkiÃ¤ ei ole.
 
 
 #####(prosessimalli)
-- onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-	Dokumentti käsittelee vain prosessin osavaiheet ja tavoitteet, ei tapoja joilla prosessi toteutetaan.
+- onko kuvattu? voi olla myÃ¶s erillisessÃ¤ projektisuunnitelmadokumentissa
+	Dokumentti kÃ¤sittelee vain prosessin osavaiheet ja tavoitteet, ei tapoja joilla prosessi toteutetaan.
 - resurssit? budjetti?
-	Vaatimusmääritelyssä ei ole viittauksia resursseihin eikä budjettiin.
+	VaatimusmÃ¤Ã¤ritelyssÃ¤ ei ole viittauksia resursseihin eikÃ¤ budjettiin.
 - riskianalyysi?
-	Dokumentti ei käsittele prosessin riskejä.
+	Dokumentti ei kÃ¤sittele prosessin riskejÃ¤.
 	
 
-#####(johtopäätökset, oma mielipide)
-- mikä tekee hyvän dokumentin?
+#####(johtopÃ¤Ã¤tÃ¶kset, oma mielipide)
+- mikÃ¤ tekee hyvÃ¤n dokumentin?
 	Selkeys, asiallinen rakenne ja tarkoituksenmukaisuus. Eli tiedoston tulee vastata kaikkiin mahdollisiin kysymyksiin asiaan liittyen ja sen tulee olla tarkoituksenmukainen.
-- onko tämä sellainen? miksi?
-	Tarkoituksenmukainen kyllä, tässä ajassa joka meille annettiin ei 177-sivuisesta dokumentista irronnut täyttä kuvaa mitä järjestelmältä vaaditaan mutta jokatapauksessa havaitsemme että kyseistä suunnitelmaa on suunniteltu erittäin tarkasti ja käyttökuvauksetkin on kirjoitettu jo erittäin hyvin. Vaikka käyttöliittymästä ei ole mitään kuvaa, ei sitä tämäntyyppisessä järjestelmän suunnitteluvaiheessa välttämättä tarvitsekkaan.
-- kaavioiden käyttö: laatu? määrä? hyöty?
-	Kaavioita käytetään jonkin verran, ne selventävät muuten hyvin byrokraattista dokumenttia relaatioiltaan muihin järjestelmiin ja etenkin käytännönläheistää projektia. Kaavioita olisi voinut olla enemmänkin mutta niiden hyödykkyys ei välttämättä olisi ollut yhtä hyvä.
+- onko tÃ¤mÃ¤ sellainen? miksi?
+	Tarkoituksenmukainen kyllÃ¤, tÃ¤ssÃ¤ ajassa joka meille annettiin ei 177-sivuisesta dokumentista irronnut tÃ¤yttÃ¤ kuvaa mitÃ¤ jÃ¤rjestelmÃ¤ltÃ¤ vaaditaan mutta jokatapauksessa havaitsemme ettÃ¤ kyseistÃ¤ suunnitelmaa on suunniteltu erittÃ¤in tarkasti ja kÃ¤yttÃ¶kuvauksetkin on kirjoitettu jo erittÃ¤in hyvin. Vaikka kÃ¤yttÃ¶liittymÃ¤stÃ¤ ei ole mitÃ¤Ã¤n kuvaa, ei sitÃ¤ tÃ¤mÃ¤ntyyppisessÃ¤ jÃ¤rjestelmÃ¤n suunnitteluvaiheessa vÃ¤lttÃ¤mÃ¤ttÃ¤ tarvitsekkaan.
+- kaavioiden kÃ¤yttÃ¶: laatu? mÃ¤Ã¤rÃ¤? hyÃ¶ty?
+	Kaavioita kÃ¤ytetÃ¤Ã¤n jonkin verran, ne selventÃ¤vÃ¤t muuten hyvin byrokraattista dokumenttia relaatioiltaan muihin jÃ¤rjestelmiin ja etenkin kÃ¤ytÃ¤nnÃ¶nlÃ¤heistÃ¤Ã¤ projektia. Kaavioita olisi voinut olla enemmÃ¤nkin mutta niiden hyÃ¶dykkyys ei vÃ¤lttÃ¤mÃ¤ttÃ¤ olisi ollut yhtÃ¤ hyvÃ¤.
