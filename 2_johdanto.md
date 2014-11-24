@@ -1,11 +1,9 @@
 ## Johdanto
 
-Projektissa suunniteltiin lukkarit.metropolia.fi -sivustoon sisäänrakennettu kartta ja resurssit -palvelu, jonka avulla Metropolian opiskelijat, opettajat ja muu henkilökunta voivat navigoida koulun sisätiloissa, etsiä vapaita tiloja ja resursseja sekä ottaa yhteyttä vahtimestariin tai Helpdeskiin jättämällä ilmoituksen korjauspyynnöstä. Sovellus hyödyntää koulun sisätilapaikannusta navigoinnissa ja käyttäjän on helppo hakea sen avulla esimerkiksi reittiä hänelle ennestään tuntemattomaan tilaan.
+Projektissa suunniteltiin lukkarit.metropolia.fi -sivustoon sisäänrakennettu kartta ja resurssit -palvelu, jonka avulla Metropolian opiskelijat, opettajat, muu henkilökunta sekä täysin ulkopuoliset vieraat voivat navigoida koulun sisätiloissa, etsiä vapaita tiloja ja resursseja sekä ottaa yhteyttä vahtimestariin, Helpdeskiin tai laitoshuoltajiin jättämällä ilmoituksen korjauspyynnöstä. Sovellus hyödyntää koulun sisätilapaikannusta ja pohjapiittustusta navigoinnissa ja käyttäjän on helppo hakea sen avulla esimerkiksi reittiä hänelle ennestään tuntemattomaan tilaan.
 
-Projektin suuri vahvuus on kattava hakuominaisuus. Vapaiden tilojen lisäksi palvelulla voi hakea suoraan tiettyä ohjelmistoa ja etsiä luokkatiloja, jonka tietokoneista kyseinen ohjelmisto löytyy. Sovellukseen on kirjattuna myös kaikkikäytössä olevat versiot, jotta käyttäjä päätyy varmasti oikean ohjelmiston pariin.
+Projektin suuri vahvuus on kattava haku- ja suodatinominaisuus. Vapaiden tilojen lisäksi palvelulla voi hakea suoraan tiettyä ohjelmistoa ja etsiä luokkatiloja, jonka tietokoneista kyseinen ohjelmisto löytyy. Sovellukseen on kirjattuna myös kaikki käytössä olevat versiot, jotta käyttäjä päätyy varmasti oikean ohjelmiston pariin. Suodattamalla onnistuu rajaamaan karttanäkymänsä hyvin tarkkojen kriteerien mukaiseksi näkymäksi, jolloin halutunlaiset tilat löytyvät uskomattoman nopeasti ja helposti.
 
 Tilojen ja resurssien lisäksi palvelun kautta on helppo jättää korjauspyyntö Helpdeskiin tai kertoa koulun mahdollisesta siisteys- tai järjestysongelmasta. Ilmoittamalla paikan ja ongelman kategorian sekä kuvailemella tilannetta, käyttäjä saa nopeasti otettua yhteyden henkilökuntaan epäkohdan korjaamiseksi.
 
-* Kerro tässä luvussa yleiskuvaus projektista
-* Mitä tehdään?
-* Miksi? Projektin taustatiedot, miksi tällainen projekti on olemassa?  
+Tämä projekti on olemassa, jotta kaikkien Metropolian tiloja säännöllisesti ja satunnaisesti käyttävien henkilöiden elämä helpottuisi huomattavasti! Nykyisen ihana.metropolia.fi -palvelun "Vapaat tilat" ei riitä kattamaan käyttäjien tarpeita. Tietohallinto on leväyttänyt tiedot saatavilla olevista ohjelmistoista ympäri verkkoa. Lukkarit-palvelu ei pysty näyttämään vapaita tiloja. Kaikki nämä, ja lukemattomat muut ongelmat varjostavat tälläkin hetkellä monen Metropolialaisen arkea – uskomme ja toivomme että tänä projekti tekee asiaan vihdoin pysyvän muutoksen!
