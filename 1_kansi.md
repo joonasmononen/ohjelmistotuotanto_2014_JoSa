@@ -1,10 +1,10 @@
 
 ## Projektin kansilehti 
 
-Listaa tänne
+#### Lukkarit.metropolia.fi – Kartta ja resurssit
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+##### Tiimi: JoSa
+  - Joonas Mononen
+  - Santtu Koivisto
+
+#### Viimeisin päivitys 24.11.2014
