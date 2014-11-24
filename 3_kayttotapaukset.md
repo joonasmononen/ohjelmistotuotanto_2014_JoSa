@@ -11,13 +11,13 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 #### 1. käyttötapausskenaario
 
 1. Alkutila <br >
-     
+     Käyttäjä etsii luokkahuonetta jossa hänellä on alkamassa oppitunti. Hän kirjautuu sisään Tuubiin ja valitsee          Lukkarit-osiosta Kartta ja resurssit -välilehden.
 
 2. Normaali kulku <br >
+     Vaihtoehtoina on joko hakea luokkahuonetta tunnuksella tai selata karttaa ja etsiä tila manuaalisesti. Käyttäjä       valitsee Haku ja suodatus -toiminnon, kirjoittaa luokkatunnuksen ja valitsee Hae tai suodata.
       
-
 3. Lopputila <br >
-      
+     Sovellus näyttää luokkahuoneen kartalla ja ruudulle ilmestyy Navigoi kohteeseen -painike.     
 
 #### 2. käyttötapausskenaario
 
