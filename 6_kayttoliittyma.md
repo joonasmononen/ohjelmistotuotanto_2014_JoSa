@@ -14,6 +14,9 @@ Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartt
 
 -----
 
+#### Kartta ja resurssit (Päänäkymä)
+Tämä näkymä on eniten esillä ohjelmiston käytössä. Siinä suurimmassa roolissa on pohjapiirros
+
 ![4](http://users.metropolia.fi/~joonasmo/ohtu/4.png)
 
 ![5](http://users.metropolia.fi/~joonasmo/ohtu/5.png)
