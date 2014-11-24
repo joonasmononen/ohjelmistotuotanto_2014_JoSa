@@ -19,7 +19,7 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 3. Lopputila <br >
      Sovellus näyttää luokkahuoneen kartalla ja ruudulle ilmestyy Navigoi kohteeseen -painike.   
 
-4. Miten normaali kulku voi mennä pieleen?
+4. Miten normaali kulku voi mennä pieleen? <br >
      Käyttäjä kirjoittaa luokaahuoneen tunnuksen sijaan luokaahuoneen nimen (esim. Dolphin), eikä haku tuota tulosta.
 
 #### 2. käyttötapausskenaario
@@ -33,7 +33,7 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 3. Lopputila <br >
       Sovellus näyttää missä luokissa on vapaita tietokoneita kyseisillä ominaisuuksilla. Käyttäjä voi valita jonkin           luokista ja klikata Navigoi kohteeseen.
 
-4. Miten normaali kulku voi mennä pieleen?
+4. Miten normaali kulku voi mennä pieleen? <br >
      Käyttäjä ei huomaa, että Adobe Premierestä on useampi versio (CS6, CC), valitsee väärän ja päätyy luokkaan, jossa ei pystykään työskentelemään.
 
 #### 3. käyttötapausskenaario
@@ -47,5 +47,5 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 3. Lopputila <br >
      Sovellus ilmoittaa, että tallennus on onnistunut ja palauttaa käyttäjän peruskarttanäkymään.
 
-4. Miten normaali kulku voi mennä pieleen?
+4. Miten normaali kulku voi mennä pieleen? <br >
      Siistijä ei huomaa antaa tarpeeksi tarkkaa selvitystä ongelmasta ja vahtimestari saapuu pyynnön huomattuaan alemmalle ovelle, jonka tunniste on kunnossa.
