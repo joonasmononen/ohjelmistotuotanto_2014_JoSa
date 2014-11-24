@@ -1,5 +1,20 @@
 ## Vaatimukset 
 
+#### Funktionaaliset vaatimukset
+
+
+
+
+#### Ei-funktionaaliset vaatimukset
+
+
+
+
+
+
+
+
+
 * Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
 * Funktionaaliset vaatimukset
   * Tarkentavat käyttötapauksia
