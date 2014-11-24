@@ -31,9 +31,9 @@ Tämä näkymä avataan klikkaamalla jotain tiettyä tilaa (esimerkissä B301). 
 
 #### Haku ja suodatus
 
-Tämä näkymä
+Klikkaamalla Kartta ja resurssit -näkymässä Menu -näppäintä, saa avattua tämän Haku ja suodatus -näkymän. Tämän näkymän tarkoituksena on auttaa käyttäjää löytämään haluamansa palvelut nopeasti joko hakemalla spesifiä tilaa tai rajaamalla kartalla näytettäviä kohteita käyttäjän asettamien kriteerien mukaisesti. Jälleen x -näppäintä painamalla poistutaan kyseisestä näkymästä edelliseen Kartta ja resurssit -näkymään. Hakupalkkiin pystyy kirjoittamaan tilan nimen tai tunnuksen, jolloin vain kyseiset kriteerit täyttävät kohteet näytetään kartalla värillisenä ja muut harmaina. Suodata karttanäkymää alueella on erilaisia valintoja, joiden avulla käyttäjä pystyy tekemään omia kriteereitä, joiden mukaan suodattaa omaa karttanäkymäänsä selkeämmäksi. Tämän toiminnon avulla käyttäjä pystyy tekemään esimerkiksi kartan jossa näytetään vain vapaina olevia ATK-luokkia ja vapaita tietokoneita, joissa on asennettuna Adobe CC (valitut checkboxit: Tilat, Tietokoneet; dropdown: Adobe CC; loput checkboxit valitsemattomia). Käyttäjä voi myös nopeuttaa oman karttanäkymänsä latautumista tulemalla poistamaan valinnat joko Tilat, Tietokoneet tai WC-tilat -checkboxeista, jolloin kyseisen kategorian data-tietoja ei ollenkaan haeta ja näin kartan lataaminen nopeutuu. Hae tai suodata -näppäimellä tehdään valittujen kriteerien tai hakupalkin mukainen kysely palvelimelle, joka palauttaa vastauksensa käyttäjälle aukeavaan karttanäkymään (Kartta ja resurssit). Takaisin lukkariin -näppäimellä siirrytään kokonaan pois karttapalvelusta takaisin lukkarit.metropolia.fi -etusivulle. Ilmoita ongelmasta -näppäin käynnistää lomakkeen ongelmien ilmoittamiseen.
 
-![6](http://users.metropolia.fi/~joonasmo/ohtu/6.png)
+![6](http://users.metropolia.fi/~joonasmo/ohtu/6v2.png)
 
 ![7](http://users.metropolia.fi/~joonasmo/ohtu/7.png)
 
