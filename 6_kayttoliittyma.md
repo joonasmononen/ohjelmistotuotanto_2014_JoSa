@@ -6,15 +6,13 @@ Olemme myös ottaneet kuvat kyseisistä käyttöliittymän mockupeista ja tehnee
 #### Lukkarit.metropolia.fi – Ennen varsinaista käyttöliittymää
 Koska palvelumme on tarkoitettu "sisäänrakennetuksi" lukkarit.metropolia.fi yhteyteen, olemme myös tiedostaneet millaisia muutoksia / lisäyksiä se vaatii lukkarit.metropolia.fi -palvelulle. Tästä syystä teimme myös lukkarit.metropolia.fi -puolen mobiilikäyttöliittymän, joka ei varsinaisesti kuulu oman palvelumme ohjelmistuotuotantoon, mutta on oleellista palvelun ymmärtämiseksi. Olemme olettaneet että lukkarit-palvelun idea pysyy vastaavana ja oma palvelumme käynnistyy klikkaamalla uutta "Kartta ja resurssit" välilehteä, tai avaamalla jotain lukujärjestyksen kohteen kartan tai navigoinnin käynnistävistä napeista.
 
-![1](http://users.metropolia.fi/~joonasmo/ohtu/1.png)
+![1](http://users.metropolia.fi/~joonasmo/ohtu/1.png) ![2](http://users.metropolia.fi/~joonasmo/ohtu/2.png)
 
-Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartta ja resurssit -välilehteä klikkaamalla pystyisi käynnistämään karttapalvelumme.
-
-![2](http://users.metropolia.fi/~joonasmo/ohtu/2.png)
-
-Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartta ja resurssit -välilehteä klikkaamalla pystyisi käynnistämään karttapalvelumme.
+Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartta ja resurssit -välilehteä klikkaamalla pystyisi käynnistämään karttapalvelumme (Kartta ja resurssit). Toisessa kuvassa on avattu sen sijaan Lukujärjestys -välilehti, jossa klikkaamalla tiettyä kohdetta käynnistyy alla näkyvän kuvan mukainen popup -käyttöliittymä. Tästä lisätietoja esittävästä näkymästä pystyisi suoraan avaamaan kohteen kartalle (Kartta ja resurssit) tai aloittamaan navigoinnin kohteeseen (Navigointi). Myös ongelmien ilmoittamisten lomakkeeseen löytyy suoralinkki tästä näkymästä (Ilmoita ongelmasta).
 
 ![3](http://users.metropolia.fi/~joonasmo/ohtu/3.png)
+
+-----
 
 ![4](http://users.metropolia.fi/~joonasmo/ohtu/4.png)
 
