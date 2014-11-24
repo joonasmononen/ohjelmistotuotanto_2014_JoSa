@@ -39,6 +39,6 @@ vastauksesi.
 
 #### 3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
 
-(https://moqups.com/mononen.joonas@gmail.com/XyncHA5V)[Linkki Moqup-palveluun, johon tehty näkymät (ei hotspotteja)]
+[Linkki Moqup-palveluun, johon tehty näkymät (ei hotspotteja)](https://moqups.com/mononen.joonas@gmail.com/XyncHA5V)
 
 
