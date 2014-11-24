@@ -3,8 +3,8 @@
 
 #### Lukkarit.metropolia.fi – Kartta ja resurssit
 
-##### Tiimi: JoSa
+###### Tiimi: JoSa
   - Joonas Mononen
   - Santtu Koivisto
 
-#### Viimeisin päivitys 24.11.2014
+###### Viimeisin päivitys 24.11.2014
