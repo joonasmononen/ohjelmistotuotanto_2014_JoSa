@@ -26,12 +26,18 @@
 3. Navigoinnin tulee näyttää jäljellä oleva matka ja arvioitu aika kohteeseen.
 
 ###### Ilmoita ongelmasta
-1. Lomakeen on täytettävä tila-kohta automaattisesti joko käyttäjän valitseman kohteen tai oman sijainnin perusteella.
+1. Lomakeen on täytettävä tila-kohta automaattisesti joko käyttäjän valitseman kohteen tai oman sijainnin perusteella. Käyttäjän on silti pystyttävä muokkaamaan kohtaa.
 2. Lomakkeessa on oltava Ongelman kategoria -lista, josta käyttäjä voi valita kuvauksen (esim. ATK-ongelma, epäsiisteys) ilmoitukselleen.
 3. Käyttäjän on pystyttävä kuvailemaan ongelmaa myös omin sanoin tyhjään kenttään.
 
 #### Ei-funktionaaliset vaatimukset
 
+1. Riittävän lyhyt vasteaika palvelimelle (sivun lataus alle 1 sekunti, kartan lataus alle 2 sekuntia, resurssien päivitys ja käyttäjän paikantaminen alle 3 sekuntia = korkeintaan 6 sekuntia kokonaislatausta katkeamattomalla 100Mbps WiFillä).
+2. Evästeiden tallenus selaimeen.
+3. Sovelluksen on oltava responsiivinen ja skaalautua kahdeksi eri versioksi (työpöytä ja mobiili).
+4. Riittävä palvelinteho ylläpitämään lyhyttä vasteaikaa.
+5. Sovelluksessa tulee käyttää vain HTML5-, JS- ja muita Phonegap-yhteensopivat tekniikoita, jotta internet-sivun lisäksi projektista voidaan helposti portata tarvittaessa mobiilisovellus.
+6. Koodin tagit yms. piilonimet ja vastaavat tulee kirjoittaa HTML ja XML -standradien mukaisesti, jotta kolmansien osapuolien käytettävyysohjelmat (korkeakontrastisuuskäännökset, teksti puheeksi) toimisivat oikein.
 
 
 
@@ -39,10 +45,6 @@
 
 
 
-
-* Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
-* Funktionaaliset vaatimukset
-  * Tarkentavat käyttötapauksia
 * Ei-funktionaaliset vaatimukset
   * Esim käytettävyyteen, tietoturvaan, tehokkuuteen, skaalautuvuuteen, hintaan ja prosessimalliin liittyvät vaatimukset
 * **Muista esittää vaatimukset jäljitettävässä muodossa, yksiselitteisesti**
