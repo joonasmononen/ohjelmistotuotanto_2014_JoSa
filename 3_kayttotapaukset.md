@@ -1,10 +1,10 @@
 ## Käyttötapaukset
 
-####Järjestelmän loppukäyttäjät
+#### Järjestelmän loppukäyttäjät
 
 Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu henkilökunta (HelpDesk, siistijät).
 
-Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
+#### Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
 
 Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
 
