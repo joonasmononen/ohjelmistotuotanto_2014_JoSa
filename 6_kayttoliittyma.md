@@ -7,8 +7,10 @@ Olemme myös ottaneet kuvat kyseisistä käyttöliittymän mockupeista ja tehnee
 Koska palvelumme on tarkoitettu "sisäänrakennetuksi" lukkarit.metropolia.fi yhteyteen, olemme myös tiedostaneet millaisia muutoksia / lisäyksiä se vaatii lukkarit.metropolia.fi -palvelulle. Tästä syystä teimme myös lukkarit.metropolia.fi -puolen mobiilikäyttöliittymän, joka ei varsinaisesti kuulu oman palvelumme ohjelmistuotuotantoon, mutta on oleellista palvelun ymmärtämiseksi. Olemme olettaneet että lukkarit-palvelun idea pysyy vastaavana ja oma palvelumme käynnistyy klikkaamalla uutta "Kartta ja resurssit" välilehteä, tai avaamalla jotain lukujärjestyksen kohteen kartan tai navigoinnin käynnistävistä napeista.
 
 ![1](http://users.metropolia.fi/~joonasmo/ohtu/1.png)
+Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartta ja resurssit -välilehteä klikkaamalla pystyisi käynnistämään karttapalvelumme.
 
 ![2](http://users.metropolia.fi/~joonasmo/ohtu/2.png)
+Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartta ja resurssit -välilehteä klikkaamalla pystyisi käynnistämään karttapalvelumme.
 
 ![3](http://users.metropolia.fi/~joonasmo/ohtu/3.png)
 
