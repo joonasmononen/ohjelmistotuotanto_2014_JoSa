@@ -2,7 +2,7 @@
 
 #### Järjestelmän loppukäyttäjät
 
-Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu henkilökunta (Helpdesk, siistijät).
+Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu henkilökunta (vahtimestari, siistijät).
 
 #### Käyttötapauskaavio
 
