@@ -6,6 +6,10 @@ Koska sovellus tullaan suurilta osin integroimaan lukkarit.metropolia.fi -palvel
 
 Sovellus ajetaan pitkälti Javascript-koodin avulla Metropolian Linux-palvelimella. Kartat on tuotu SVG-vektorigrafiikkana ja ulkoasu on tehty uusimpia HTML5 ja jQuery -kirjastoja hyödyntäen. Palvelussa pyritään viimeiseen asti olemaan käyttämättä PHP-koodia, jotta palvelun voisi tulevaisuudessa mahdollisesti myös portata hybridinatiiviksi mobiilisovellukseksi Phonegapin tai AppGyverin kaltaisen palvelun avulla edullisesti. Itse sovellus ei tuota erityisen suurta ja raskasta kuormaa palvelimelle, sillä karttojen koko on vektorigrafiikan käytöstä johtuen erittäin pieni ja lataaminenkin voidaan ääritapauksessa ulkoistaa jollekkin hajautetulle CDN-palvelulle tarvittaessa. Ainoan mahdollisen kankeuden tai pullonkaulan järjestelmän arkkitehtuurissa luo muista palveluista ladattavat datat, eli resurssit.
 
+#### Sisätilapaikannus
+
+Olemassaolevan metroNavi -projektin avulla saadaan implementoitua WiFi-pohjainen sisätilapaikannusjärjestelmä palvelimelle erittäin helposti. Paikannus toimii vertaamalla WiFi-antennien kuuluvuus-, sijainti- ja kanava-tietoja palvelimelle ladattuihin eri alueiden skannattuihin tietoihin. Kun client-käyttäjän puhelin lähettää palvelimelle tietonsa, verrataan sitä olemassaoleviin skannattuihin tietoihin, jolloin saadaan käyttäjän sijainti huoneen tai lyhyen käytävän tarkkuudella (noin 5-10 metriä) selville ja lähetetään takaisin clientille, joka näyttää sijainnin kartalla käyttäjälle.
+
 #### Resurssien lataaminen
 
 Resurssien lataaminen kannattaa tehdä keskitetysti esimerkiksi kerran minuutissa palvelimen toimesta suoraan muille resurssi-dataa antaville palvelimille. Karttapalvelun data ei siis ole täysin realiaikaista, vaan on korkeintaan minuutin jäljessä. Karttapalvelun käyttäjät tekevät hakutuloksensa suoraan omalle palvelimellemme, jolloin muut palvelut eivät ruuhkaudu vaikka karttapalvelussa olisikin tungosta.
