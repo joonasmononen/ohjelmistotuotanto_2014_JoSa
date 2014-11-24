@@ -3,6 +3,10 @@
 #### Funktionaaliset vaatimukset
 
 ###### Kartta ja resurssit
+1. Näkymässä pitää olla taustalla kartta ja käyttäjän sijaintia kuvaava ikoni.
+2. Tilojen kohdalla on luettava tilan tunnus, status (varattu, vapaa), mahdollinen vapautumisajankohta ja vapaana olevien koneiden lukumäärä.
+3. Näkymässä on käytävä ilmi missä kerroksessa käyttäjä on ja kerroksien välillä on pystyttävä siirtymään.
+4. Yläkulmassa on oltava Menu-painike, josta voidaan siirtyä esimerkiksi Haku ja suodatus sekä Ilmoita ongelmasta -osioihin.
 
 ###### Tietoja
 1. Tietoja-valikon tulee näyttää kellonajat, jolloin tila on vapaana ja mitä kursseja siellä on mahdollisesti menossa.
