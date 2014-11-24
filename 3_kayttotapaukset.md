@@ -20,7 +20,7 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
      Sovellus näyttää luokkahuoneen kartalla ja ruudulle ilmestyy Navigoi kohteeseen -painike.   
 
 4. Miten normaali kulku voi mennä pieleen? <br >
-     Käyttäjä kirjoittaa luokaahuoneen tunnuksen sijaan luokaahuoneen nimen (esim. Dolphin), eikä haku tuota tulosta.
+     Käyttäjä kirjoittaa luokkahuoneen tunnuksen sijaan luokaahuoneen nimen (esim. Dolphin), eikä haku tuota tulosta.
 
 #### 2. käyttötapausskenaario
 
