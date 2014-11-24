@@ -8,18 +8,27 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 
 ![](http://users.metropolia.fi/~santtk/Ohjelmistotuotanto-projekti-kaavio01.PNG)
 
-#### Käyttötapausskenaario
+#### 1. käyttötapausskenaario
 
 1. Alkutila <br >
-      Käyttäjä haluaa tietää onko koulussa vapaana tietokonetta, jossa on asennettuna Adobe Premiere Pro CC -ohjelma.       Hän kirjautuu sisään Tuubiin ja valitsee Lukkarit-osiosta Kartta ja resurssit -välilehden.
+     
 
-2.  
+2. Normaali kulku <br >
+      
 
+3. Lopputila <br >
+      
 
+#### 2. käyttötapausskenaario
 
+1. Alkutila <br >
+      Käyttäjä haluaa tietää onko koulussa vapaana tietokonetta, jossa on asennettuna Adobe Premiere Pro CC -ohjelma.          Hän kirjautuu sisään Tuubiin ja valitsee Lukkarit-osiosta Kartta ja resurssit -välilehden.
 
+2. Normaali kulku <br >
+      Käyttäjä valitsee Haku ja suodatus -toiminnon, merkitsee haluamansa ominaisuudet ja valitsee Hae tai suodata.
 
-
+3. Lopputila <br >
+      Sovellus näyttää missä luokissa on vapaita tietokoneita kyseisillä ominaisuuksilla. Käyttäjä voi valita jonkin           luokista ja klikata Navigoi kohteeseen.
 
 
 
