@@ -15,11 +15,23 @@ Yllä olevassa ensimmäisessä kuvassa on lukkarit.metropolia.fi -etusivu. Kartt
 -----
 
 #### Kartta ja resurssit (Päänäkymä)
-Tämä näkymä on eniten esillä ohjelmiston käytössä. Siinä suurimmassa roolissa on pohjapiirros, eli kartta koulusta. Kartalla näkyy erilaisia resursseja, kuten luokkatiloja, tietokoneita, kokoushuoneita, vessoja yms. Palvelu hakee datat kyseisten resurssien saatavuudesta muista palveluista ja esittää ne käyttäjälle graafisesti tai tekstinä – tilan saatavuus värinä (vihreä = vapaa, keltainen = pian vapautuva, punainen = varattu) ja lisäksi lisätieto-teksti (esim. "Vapaa 13:00 saakka"), tietyn tilan tietokoneiden määrä ja niistä eriteltynä vielä vapaat tietokoneet (vapaat tietokoneet / tietokoneita yhteensä = eli esimerkiksi "20/24 konetta vapaana"). Tilan saatavuus-tieto on myös vessoista (vaatii vessojen lukkoihin anturin asentamista). Käyttäjä näkee myös oman sijaintinsa kartalla ja pystyy jo pelkästään tämän toiminnon avulla näkemään läheisimmät tarvitsemansa resurssit helposti. Jotain tilaa klikkaamalla aukeaa tarkemmat tiedot kyseisestä tilasta (Tietoja popup) ja Menu-näppäintä painamalla taas saa kartan haku- ja suodatusominaisuudet käyttöönsä (Haku ja suodatus).
+Tämä näkymä on eniten esillä ohjelmiston käytössä. Siinä suurimmassa roolissa on pohjapiirros, eli kartta koulusta. Kartalla näkyy erilaisia resursseja, kuten luokkatiloja, tietokoneita, kokoushuoneita, vessoja yms. Palvelu hakee datat kyseisten resurssien saatavuudesta muista palveluista ja esittää ne käyttäjälle graafisesti tai tekstinä – tilan saatavuus värinä (vihreä = vapaa, keltainen = pian vapautuva, punainen = varattu) ja lisäksi lisätieto-teksti (esim. "Vapaa 13:00 saakka"), tietyn tilan tietokoneiden määrä ja niistä eriteltynä vielä vapaat tietokoneet (vapaat tietokoneet / tietokoneita yhteensä = eli esimerkiksi "20/24 konetta vapaana"). Tilan saatavuus-tieto on myös vessoista (vaatii vessojen lukkoihin anturin asentamista). Käyttäjä näkee myös oman sijaintinsa kartalla ja pystyy jo pelkästään tämän toiminnon avulla näkemään läheisimmät tarvitsemansa resurssit helposti. Oikeassa alareunassa pystyy vaihtamaan tarkasteltavaa kerrosta ja perinteisillä kosketusnäytön panorointi, nipistys ja venytys -eleillä pystyy liikuttamaan ja zoomaamaan karttaa haluamallaan tavalla. Mitä tahansa luokkatilaa klikkaamalla aukeaa tarkemmat tiedot kyseisestä tilasta (Tietoja popup) ja Menu-näppäintä painamalla taas saa kartan haku- ja suodatusominaisuudet käyttöönsä (Haku ja suodatus).
 
 ![4](http://users.metropolia.fi/~joonasmo/ohtu/4v2.png)
 
+-----
+
+#### Tietoja (popup)
+
+Tämä näkymä avataan klikkaamalla jotain tiettyä tilaa (esimerkissä B301). Vasemman yläkulman x -näppäintä painamalla saa suljettua popupin ja palaa siihen näkymään mistä siirtyi Tietoja -näkymään. Tämän näkymän oleellisimpia tarkoituksia on esittää kyseisen tilan seuraavat kolme oppituntia / mahdollisesti vapaata palkkia, tämän jälkeen kerrotaan tietokoneiden käyttöasteesta tekstillä ja graafisesti ja tämän jälkeen taulukosta voidaan tarkastella luokkatilan tietokoneille asennettuja ohjelmia. Lisäksi alareunasta pystyy poistumaan karttapalvelusta takaisin seuraamaan kyseisen tilan lukujärjestystä klikkaamalla "Avaa tilan lukujärjestys" -painiketta. "Navigoi kohteeseen" -nappi taas käynnistää navigointipalvelun kyseiseen tilaan (Navigointi) ja ilmoita ongelmasta siirtää käyttäjän ongelman ilmoittamisesta kertovaan lomakkeeseen (Ilmoita ongelmasta), jossa on esitäytettynä kyseisen tilan nimi.
+
 ![5](http://users.metropolia.fi/~joonasmo/ohtu/5.png)
+
+-----
+
+#### Haku ja suodatus
+
+Tämä näkymä
 
 ![6](http://users.metropolia.fi/~joonasmo/ohtu/6.png)
 
