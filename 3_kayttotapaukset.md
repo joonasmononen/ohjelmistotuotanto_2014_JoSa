@@ -11,7 +11,7 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 #### Käyttötapausskenaario
 
 1. Alkutila
-      Käyttäjä haluaa tietää onko koulussa vapaana tietokonetta, jossa on asennettuna Adobe Premiere Pro CC -ohjelma.       Hän kirjautuu sisään Tuubiin ja valitsee Lukkarit-osiosta Kartta ja resurssit -välilehden.
+      *Käyttäjä haluaa tietää onko koulussa vapaana tietokonetta, jossa on asennettuna Adobe Premiere Pro CC -ohjelma.       Hän kirjautuu sisään Tuubiin ja valitsee Lukkarit-osiosta Kartta ja resurssit -välilehden.
 
 2.  
 
