@@ -17,7 +17,10 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
      Vaihtoehtoina on joko hakea luokkahuonetta tunnuksella tai selata karttaa ja etsiä tila manuaalisesti. Käyttäjä       valitsee Haku ja suodatus -toiminnon, kirjoittaa luokkatunnuksen ja valitsee Hae tai suodata.
       
 3. Lopputila <br >
-     Sovellus näyttää luokkahuoneen kartalla ja ruudulle ilmestyy Navigoi kohteeseen -painike.     
+     Sovellus näyttää luokkahuoneen kartalla ja ruudulle ilmestyy Navigoi kohteeseen -painike.   
+
+4. Miten normaali kulku voi mennä pieleen?
+     Käyttäjä kirjoittaa luokaahuoneen tunnuksen sijaan luokaahuoneen nimen (esim. Dolphin), eikä haku tuota tulosta.
 
 #### 2. käyttötapausskenaario
 
@@ -30,11 +33,19 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 3. Lopputila <br >
       Sovellus näyttää missä luokissa on vapaita tietokoneita kyseisillä ominaisuuksilla. Käyttäjä voi valita jonkin           luokista ja klikata Navigoi kohteeseen.
 
+4. Miten normaali kulku voi mennä pieleen?
+     Käyttäjä ei huomaa, että Adobe Premierestä on useampi versio (CS6, CC), valitsee väärän ja päätyy luokkaan, jossa ei pystykään työskentelemään.
 
+#### 3. käyttötapausskenaario
 
-Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
+1. Alkutila <br >
+     Siistijä on siivoamassa auditoriota. Hän huomaa, että ylemmän sisäänkäynnin elektroninen tunniste ei toimi. Hän valitsee Lukkarit-osiosta Kartta ja resurssit -välilehden.
 
-mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
-kerro myös kuinka normaali kulku voi mennä pieleen sekä
-mahdolliset vaihtoehtoiset kulut (alternate flow)
-Helpdesk
+2. Normaali kulku <br >
+     Siistijä joko valitsee perusnäkymästä Ilmoita ongelmasta -välilehden tai etsii ensin auditorion, avaa tilan kohde popup -ikkunan ja valitsee Ilmoita ongelmasta saadaksen esille esitäytetyn lomakkeen. Hän täyttää lomakkeeseen ongelman kategorian ja kertoo sanallisesti mistä on kyse. Tämän jälkeen hän valitsee Tallenna ilmoitus.
+      
+3. Lopputila <br >
+     Sovellus ilmoittaa, että tallennus on onnistunut ja palauttaa käyttäjän peruskarttanäkymään.
+
+4. Miten normaali kulku voi mennä pieleen?
+     Siistijä ei huomaa antaa tarpeeksi tarkkaa selvitystä ongelmasta ja vahtimestari saapuu pyynnön huomattuaan alemmalle ovelle, jonka tunniste on kunnossa.
