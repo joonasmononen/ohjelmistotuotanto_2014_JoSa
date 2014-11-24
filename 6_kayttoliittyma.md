@@ -43,10 +43,19 @@ Navigointi-tilan saa käynnistettyä joko suoraan lukkarista tai Tietoja -näkym
 
 ![7](http://users.metropolia.fi/~joonasmo/ohtu/7.png)
 
+-----
+
+#### Ilmoita ongelmasta (popup)
+
+Navigointi-til
+
 ![8](http://users.metropolia.fi/~joonasmo/ohtu/8.png)
 
+-----
 
-ALKUPERÄINEN OHJEISTUS:
-* listaa käyttöliittymän näkymät
-* niiden keskinäiset suhteet
-* kuvaile mitä näkymässä tapahtuu / tehdään
+#### Näkymien keskinäiset suhteet kaaviossa
+
+Yllä esiteltyjen näkymien keskinäiset suhteet on kuvailtu tekstissä ja havaittavissa interaktiivisessa käyttöliittymätestissä, mutta teimme lisäksi alla esitetyn kaavion, joka kiteyttää näkymien väliset suhteet.
+
+![9](http://users.metropolia.fi/~santtk/Sisatilapaikannus.jpg)
+
