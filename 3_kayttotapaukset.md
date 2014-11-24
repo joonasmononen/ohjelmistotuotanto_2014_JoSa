@@ -7,7 +7,7 @@ Sovelluksen käyttäjäryhmää ovat Metropolian opiskelijat, opettajat ja muu h
 #### Käyttötapauskaavio
 
 !(http://users.metropolia.fi/~santtk/Ohjelmistotuotanto-projekti-kaavio01.PNG)
-
+![Näkymien siirtymät](http://users.metropolia.fi/~santtk/Sisatilapaikannus.jpg)
 
 
 
