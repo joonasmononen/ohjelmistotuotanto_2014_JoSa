@@ -38,14 +38,3 @@
 4. Riittävä palvelinteho ylläpitämään lyhyttä vasteaikaa.
 5. Sovelluksessa tulee käyttää vain HTML5-, JS- ja muita Phonegap-yhteensopivat tekniikoita, jotta internet-sivun lisäksi projektista voidaan helposti portata tarvittaessa mobiilisovellus.
 6. Koodin tagit yms. piilonimet ja vastaavat tulee kirjoittaa HTML ja XML -standradien mukaisesti, jotta kolmansien osapuolien käytettävyysohjelmat (korkeakontrastisuuskäännökset, teksti puheeksi) toimisivat oikein.
-
-
-
-
-
-
-
-* Ei-funktionaaliset vaatimukset
-  * Esim käytettävyyteen, tietoturvaan, tehokkuuteen, skaalautuvuuteen, hintaan ja prosessimalliin liittyvät vaatimukset
-* **Muista esittää vaatimukset jäljitettävässä muodossa, yksiselitteisesti**
-* Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
