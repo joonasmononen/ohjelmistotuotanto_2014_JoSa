@@ -42,4 +42,4 @@ vastauksesi.
 [Linkki Moqup-palveluun, johon tehty näkymät (ei hotspotteja)](https://moqups.com/mononen.joonas@gmail.com/XyncHA5V)
 
 Lisäksi Visiossa tehty näkymiin liittyvät siirtymät:
-![Näkymien siirtymät](http://www.users.metropolia.fi/~santtk/Sisatilapaikannus.tif)
+![Näkymien siirtymät](http://users.metropolia.fi/~santtk/Sisatilapaikannus.jpg)
